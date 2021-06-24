@@ -6,7 +6,7 @@
 
     <groupId>fr.minuskube</groupId>
     <artifactId>inv</artifactId>
-    <version>1.4</version>
+    <version>1.4.0</version>
     <packaging>jar</packaging>
 
     <name>FastBoard</name>
