@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>GitHub TokyoSlayer Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/TokyosSlayer/SmartInvs</url>
+            <url>https://maven.pkg.github.com/TokyoSlayers/SmartInvs</url>
         </repository>
     </distributionManagement>
 
