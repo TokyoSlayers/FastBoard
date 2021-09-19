@@ -4,9 +4,12 @@
 [![Javadocs](https://img.shields.io/maven-central/v/fr.minuskube.inv/smart-invs.svg?label=javadoc&style=flat-square)](https://javadoc.io/doc/fr.minuskube.inv/smart-invs)
 
 # SmartInvs
-Advanced Inventory API for your Minecraft Bukkit plugins.
 
-*Tested Minecraft versions: 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14*  
+***IS NOT A REAL PROJET !! IS JUST A VERSION FOR 1.17.X .***
+**Real projet [[here](https://github.com/MinusKube/SmartInvs)].**
+
+Advanced Inventory API for your Minecraft Bukkit plugins.
+*Tested Minecraft versions: 1.17*  
 **You can use this as a Plugin, or use it as a library** (see [the docs](https://minuskube.gitbook.io/smartinvs/))
 
 ## Features
@@ -46,9 +49,9 @@ dependencies {
 ### Maven
 ```xml
 <dependency>
-  <groupId>fr.minuskube.inv</groupId>
-  <artifactId>smart-invs</artifactId>
-  <version>1.2.7</version>
+  <groupId>fr.minuskube</groupId>
+  <artifactId>inv</artifactId>
+  <version>1.4.0</version>
 </dependency>
 ```
 
